@@ -1,0 +1,14 @@
+What Payment Methods Are Available?
+Taking part in one of our challenges couldn't be easier. Simply sign up and purchase a challenge direct from your dashboard. 
+When purchasing your challenge you can choose from the following cryptocurrency payment methods: 
+ Bitcoin (BTC)
+ Ethereum (ETH) 
+ Litecoin (LTC) 
+ Dogecoin (DOGE) 
+Once you have made your purchase, and it has been verified on the blockchain you will receive your MetaTrader demo account credentials via email. You are now ready to start your challenge. 
+Important Note: 
+In order to use ETH (ERC-20) you will need to use the ERC-20 standard.
+We are always looking to offer you the best possible funded experience, and part of this is to expand our payment offering.
+ 
+                  🌟Credit Card payments coming soon! 🌟
+

@@ -1,0 +1,7 @@
+What are the Min & Max Trading Days?
+The FunderPro challenge has a minimum trading rule. To meet this objective, you must trade for at least 5 days during your challenge. This means you must open at least one position on each of these days. 
+How do you define a trading day?
+A trading day is defined as a day where at least one trade is executed. In the case that a trade is held over a number of days, the only day that will be considered a "Trading Day" is the day the position was opened. 
+What's the maximum trading period?
+We have no time limits to complete the challenge, this means your path to funding can be done at your own pace. 
+

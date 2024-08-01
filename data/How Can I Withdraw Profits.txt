@@ -1,0 +1,9 @@
+How Can I Withdraw Profits?
+You can simply request payouts for any profits that you generate on a weekly basis and we will process your payment as quickly as possible. In order to be eligible for a payout the following requirements are needed: 
+ Your first payout request can be requested after 7 days from the first trade 
+ Due to the current market state of BTC as a whole, we will only payout if your profit exceeds $100. This will be calculated on equity gain made by the trader during the previous week
+Subsequent payouts will happen on a weekly basis, each Friday at 12:00 MT4/MT5 Server time. 
+What are the payout methods available: 
+Currently, you can withdraw your profits in BTC direct into your wallet. Once you have requested your payout we will review the request and aim to process it within 24-48 hours after the request has been submitted. Any payouts will ONLY be paid out to traders you have fully verified accounts and who have not breached any of your Funded Account requirements. 
+You can easily update your payment details at any time from your trader's portal, if or when you add new or edit existing payment details we will inform you via email as an extra measure of security. 
+

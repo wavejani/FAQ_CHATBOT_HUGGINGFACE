@@ -1,0 +1,7 @@
+version: "3.8" # Specify the Docker Compose version to use
+
+services:
+  chatbot: # Define a service named "chatbot"
+    build: . # Build the Docker image from the Dockerfile located in the current directory
+    ports:
+      - "7860:7860" # Map port 7860 on the host to port 7860 on the container

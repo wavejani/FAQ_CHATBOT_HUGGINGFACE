@@ -1,0 +1,10 @@
+What Leverage is Available?
+Since we allow traders to hold positions overnight and over the weekend we have lowered the leverage across certain instruments to protect against any extreme volatility or price movements. We are delighted to offer the best available leverage across our challenge account in comparison to other prop firms. 
+Below is a breakdown of the leverage available across different assets: 
+ 1:100 - Forex & Crypto 
+ 1:100 - Metals, Indices & Energies 
+What does it mean to trade with leverage?
+Leverage in trading enables you to open a trading position using a small amount of capital in order to take a much larger position in the market. By borrowing money to invest, you can amplify your returns and potentially earn more than you would have without using leverage.
+For example:
+If you have $5,000, you can leverage your trading position up to 100 times or more. So, if you leveraged at 100 to 1, you would be exposing yourself to managing a position of $500,000 in the market.
+

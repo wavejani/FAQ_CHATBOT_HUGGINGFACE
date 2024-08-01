@@ -1,0 +1,34 @@
+What is the Consistency Rule?
+What is the Consistency Rule?
+The Consistency Rule in FunderPro is designed to ensure you achieve steady and sustainable profits while effectively managing risk. The rule states that the earnings of your best trading day should not exceed 60% of your total profits and comes into play only during Phase 2 (Verification) of the Funded Account Challenge.
+Why is the Consistency Rule Important?
+FunderPro's Consistency Rule aids in the cultivation of consistent profits and the avoidance of emotion-driven trading. By ensuring your most profitable day falls below 60% of your overall profits, you can better manage your risk-reward ratio (RRR) and develop a more sustainable trading approach. This rule assists FunderPro in identifying the top professional traders to fund.
+When is the Consistency Rule required and how is it calculated?
+The Consistency Rule applies solely to Phase 2 (Verification) of the Funded Account Challenge. Here, you have the chance to demonstrate your ability to manage risk effectively and build consistent success. 
+The calculation is as follows: Best Day Profit / Overall Profit = Best Day % of Total Profit 
+Let's illustrate this with a new example: 
+Imagine a $25,000 account with a Phase 2 profit target of $2,000 (8%). The daily profit should never exceed $1,200, which is 60% of total profits. Consider this scenario: 
+ You reach your target and make a total profit of $2,000.
+ You earn a $1,200 profit in a single day.
+Result: You do not pass the Challenge. 
+To succeed, you should devise a strategy that prevents you from exceeding a $1,200 daily profit. Once you reach a total profit of $2,000, you will pass the Challenge as you have demonstrated that you can profit consistently without relying on risky large trades. 
+What is meant by the Recommended Best Day?
+Given that your best trading day should remain below 60% of your total profit, we recommend that you set a daily profit target below this threshold. This strategy will help you maintain consistency and lock in daily profits.
+Here are examples of recommended best day profits by account size:
+
+                                 Account Size 
+                                Profit Target 
+                             Recommended Best Day
+$25k Account 
+$2,000
+Less than $1,200
+$50k Account
+$4,000
+Less than $2,400
+$100k Account
+$8,000
+Less than $4,800
+$200k Account
+$16,000
+Less than $9,600
+

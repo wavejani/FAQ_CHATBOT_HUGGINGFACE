@@ -1,0 +1,11 @@
+How Does the Overall Drawdown Work?
+For the duration of your challenge, the capital in your FunderPro trader account cannot at any given time drop below 10%.
+For example: 
+If you have a starting balance of $100,000, 10% of this equals $10,000. This means if your account falls below $90,000 at any given moment you are in violation of the "overall drawdown" rule. 
+How do I calculate Daily Drawdown?
+The Maximum Daily Loss of 5% has a constant value of 5% of your initial account's size. This means that if a trader has a $100,000 account, their maximum daily loss would be $5,000 (5% of $100,000) at any given time during the challenge.
+
+It's important to note that the maximum daily loss of 5% is based on the trader's equity at the end of the day (EOD), which is calculated at 00:00 server time GMT+3 5 pm EST (depending on the changes in daylight savings time). This includes both the realized and unrealized profit and loss (P&L) of the trader's open positions.
+For example, in the case of a 100.000 account, if a trader has lost $4,999 on the first day of trading, their equity at the end of the day would be $95,001. The maximum daily loss threshold would reset the next day, allowing the trader to potentially lose up to $4,999 again without breaching the threshold.
+Violation of this rule will result in an automatic failure on your challenge account. The same Daily Drawdown applies to all 3 phases (Evaluation, Verification, and Funded) of every challenge. 
+

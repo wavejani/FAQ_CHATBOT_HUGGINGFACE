@@ -1,0 +1,8 @@
+# lists of dependencies required for the project 
+
+transformers          # Hugging Face Transformers library for language models
+torch                  # PyTorch library, required by Transformers for model computations
+gradio                # Gradio library for creating web-based UIs for machine learning models
+faiss-cpu             # FAISS library for efficient similarity search and clustering of dense vectors
+numpy                # NumPy library for numerical operations
+sentence-transformers  # Sentence Transformers library for generating sentence embeddings for vectorization
